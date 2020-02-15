@@ -9,7 +9,6 @@
   ],
   "scripts": {
     "build": "ethereumjs-config-build",
-    "prepublishOnly": "npm run format && npm run tslint && npm run test",
     "coverage": "ethereumjs-config-coverage",
     "coveralls": "ethereumjs-config-coveralls",
     "format": "ethereumjs-config-format",
