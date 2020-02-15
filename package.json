@@ -1,5 +1,5 @@
 {
-  "name": "@macalinao/ethereumjs-wallet",
+  "name": "@simplyianm/ethereumjs-wallet",
   "version": "0.6.3-ian",
   "description": "Utilities for handling Ethereum keys",
   "main": "dist/index.js",
